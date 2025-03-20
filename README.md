@@ -1,3 +1,3 @@
 AI RESUME RANKING
 
-Download a zip file and run in a visual code
+Download a zip file and run in a visual studio code
